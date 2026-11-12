@@ -1,0 +1,16 @@
+{
+  "catalog": 1,
+  "apps": [
+    {
+      "id": "luau-trainer",
+      "name": "Luau Trainer",
+      "version": "1.0.0",
+      "summary": "Lessons, escape rooms, a quick-card feed and a 2D studio where you build and script your own levels.",
+      "poster": "poster-luau-wide.png",
+      "download": "https://github.com/abdullahosama1c20-creator/zonix-catalog/releases/download/luau-trainer-1.0.0/LuauTrainer-Windows.zip",
+      "sha256": "2a02367c7376ea2be5c4a60b16c31a3d65f6db2674c5b47cb31c2c2487177551",
+      "size": 101393562,
+      "run": "Luau Trainer/Luau Trainer.exe"
+    }
+  ]
+}
