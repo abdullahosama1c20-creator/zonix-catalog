@@ -12,5 +12,13 @@
       "size": 101393562,
       "run": "Luau Trainer/Luau Trainer.exe"
     }
-  ]
+  ],
+  "launcher": {
+    "version": "0.6.1",
+    "notes": "First online update.",
+    "download": "https://github.com/abdullahosama1c20-creator/zonix-catalog/releases/download/zonix-launcher-0.6.1/ZonixLauncher-0.6.1.zip",
+    "sha256": "b4f4c5518ad99b84f485d1dc9e1d27b72d8b87c009df989528962e8d4e0b5ded",
+    "size": 101248957
+  },
+  "plugins": []
 }
